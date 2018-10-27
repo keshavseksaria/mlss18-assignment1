@@ -7,7 +7,7 @@ Fork this repo and complete the assignment. After completing the assignment, sub
 The first part of the assignment is aimed to make you familiar with some of the basic Numpy functions. This assignment, along with the part 2 of it, is given in Python Notebook to make you feel comfortable while working in that notebook environment.
 
 
-### Files Given
+### Files  Given
 
 	array.pickle - A pickle file containing input array.
 	Assignment_1_1.ipynb - A Python notebook which needs to be filled by you at appropriate palces to complete the assignment. Read the comments in order to understand what is required to be done at each step. 
