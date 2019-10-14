@@ -15,7 +15,7 @@ The first part of the assignment is aimed to make you familiar with some of the 
 In case you don't know the function which is required to execute any given operation or if you can't remember its syntax, Google your way out! Still if you face any difficulties, you can ask on the Slack channel. 
 
 
-## Assignment_1_2 - Pandas Matplotlib
+## Assignment_1_2 - Pandas Matplotlib 1
 
 
 The 2nd part of this assignment helps you get familiar with Pandas functionalities and various Matplotlib operations you can do to generate various kinds of plots.
