@@ -1,6 +1,6 @@
 # ML Summer School (2018) - Assignment 1
 
-Fork this repo and complete the assignment. After completing the assignment, submit it [here](https://docs.google.com/forms/d/e/1FAIpQLSdOfz8veM9h8P4sT0NRI5PV6_-xJH4enm3syeg7LZ2OR97aCg/viewform).
+Fork this repo and complete the assignment.After completing the assignment, submit it [here](https://docs.google.com/forms/d/e/1FAIpQLSdOfz8veM9h8P4sT0NRI5PV6_-xJH4enm3syeg7LZ2OR97aCg/viewform).
 
 ## Assignment_1_1 - Numpy and Python Basics
 
