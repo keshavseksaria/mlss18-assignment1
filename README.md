@@ -22,9 +22,7 @@ The 2nd part of this assignment helps you get familiar with Pandas functionaliti
 
 ### Files Given
 
-	day.csv -  It is part of a Bike Sharing Dataset. This dataset relates the bike sharing counts with various factors like temperature, weather and season. The fields present in day.csv are:
-		
-			* instant: record index
+	
 			* dteday : date
 			* season : season (1:springer, 2:summer, 3:fall, 4:winter)
 			* yr : year (0: 2011, 1:2012)
